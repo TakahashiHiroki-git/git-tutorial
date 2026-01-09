@@ -9,8 +9,6 @@ Let's add your name to the Hall of Fame by creating a pull request (PR) to this 
 | [<img src="https://github.com/shunyatadano.png" width="50">](https://github.com/shunyatadano) | [**@shunyatadano**](https://github.com/shunyatadano) | I'm Shunya, interested in social navigation and playing football! |
 | [<img src="https://github.com/stonewell25.png" width="50">](https://github.com/stonewell25) | [**@stonewell25**](https://github.com/stonewell25) | Huooooooooo |
 | [<img src="https://github.com/ricardo-manriquez.png" width="50">](https://github.com/ricardo-manriquez) | [**@ricardo-manriquez**](https://github.com/ricardo-manriquez) | I'm Ricardo and I build robots! 🤖 |
-
- 
 | [<img src="https://github.com/Shogo-git-hub.png" width="50">](https://github.com/Shogo-git-hub) | [**@Shogo-git-hub**](https://github.com/Shogo-git-hub) | I'm Shogo! |
 
 
