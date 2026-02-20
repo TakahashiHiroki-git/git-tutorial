@@ -28,7 +28,7 @@
 4. Add a new line like `This line is added in feature branch.` to the README.md file and save it.
 
     ``` 
-   
+   This line is added in feature branch
     ```
 
 5. Add and commit the changes in the `feature` branch:
