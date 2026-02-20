@@ -28,7 +28,7 @@ Let's say there are new changes in the remote repository, and you want to update
 
 1. Changing this file directly on GitHub. Add a new line like `This line is added on GitHub.` and commit the changes.
 
-    ```
+    ```bash
 This line is added on GitHub　Second time.
     ```
 
